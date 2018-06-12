@@ -1,4 +1,4 @@
-# RSS Beacons
+# Syndic Pillar
 
 This repo contains a custom external pillar for use with [SaltStack](https://saltstack.com/). 
 
